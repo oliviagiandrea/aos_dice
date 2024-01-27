@@ -1,0 +1,30 @@
+* {
+  font-family: 'Bellefair', serif;
+  text-align: center;
+}
+
+button {
+  font-family: 'MedievalSharp', cursive;
+  background-color: rgb(103, 1, 1);
+  border-radius: 6px;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 1rem;
+  text-transform: uppercase;
+  width: 12rem;
+  cursor: pointer;
+}
+
+#placeholder {
+  font-family: 'MedievalSharp', cursive;
+  font-size: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10rem;
+  width: 10rem;
+  padding: 3rem;
+  margin: 5rem auto;
+  border: 1px solid gray;
+  border-radius: 10px;  
+}
